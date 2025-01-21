@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently in final year of graduation<br>i am working in react,react native
+I am currently in final year of graduation<br>i am working on react,react native
 
 
 ## 🌐 Socials:
