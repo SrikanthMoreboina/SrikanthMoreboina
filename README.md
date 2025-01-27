@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi guys,I am Srikanth Moreboina 🔱 👋
 # 💫 About Me:
-I am currently in final year of graduation<br>i am working on react,react native
+I am currently in final year of graduation<br>I am currently working on react,react native...
 
 
 ## 🌐 Socials:
